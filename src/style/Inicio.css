@@ -1,0 +1,30 @@
+.Logo {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: auto;
+  padding: 15px 20px;
+}
+
+.display-4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.btn {
+  display: block;
+  margin: auto;
+  padding: 15px 20px;
+}
+
+.Inicio{
+  background-image: url("./img/fondopro2.jpg");
+  background-position: center center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  padding: 84px 80px;
+}
